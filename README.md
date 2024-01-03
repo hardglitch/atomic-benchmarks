@@ -1,4 +1,4 @@
-# Results:
+# Rust Atomics vs Other sync primitives:
 ```
 atomic_bench1   ~1200ms (DEV) - ~1130ms (REL)
 atomic_bench2   ~7700ms (DEV) - ~5500ms (REL)
